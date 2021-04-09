@@ -3,3 +3,12 @@
 * {
   font-family: 'Ubuntu', sans-serif;
 }
+.App {
+  border: 1px solid grey;
+  margin: 1rem 450px;
+  padding: 1rem 0 350px 0;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px 5px grey;
+ 
+
+}

@@ -52,13 +52,13 @@ function App() {
         }}
         
       >
-        <h1>😃😎 Todos App 😃😎</h1>
+        <h1>📗📗 EverNote 📗📗 </h1>
         <form>
           <TextField
             id="standard-basic"
-            label="Write a Todo"
+            label="Write a Note"
             value={todoInput}
-            style={{ width: "90vw", maxWidth: "500px" }}
+            style={{ width: "90vw", maxWidth: "300px" }}
             onChange={(e) => setTodoInput(e.target.value)}
           />
           <Button
